@@ -1,0 +1,21 @@
+user_id,name,age,gender,education,salary,income,date_column
+1,John Doe,32,Male,Bachelor's Degree,60000,55000,2023-01-10
+2,Jane Smith,28,Female,Master's Degree,75000,60000,2023-01-15
+3,Bob Johnson,45,Male,High School,48000,40000,2023-02-05
+4,Susan Lee,35,Female,Ph.D.,90000,80000,2023-02-20
+5,Michael Brown,28,Male,Bachelor's Degree,55000,50000,2023-03-12
+6,Linda Williams,42,Female,Master's Degree,78000,60000,2023-03-25
+7,David Wilson,38,Male,High School,50000,45000,2023-04-08
+8,Emily Davis,29,Female,Ph.D.,95000,80000,2023-04-22
+9,Robert Anderson,31,Male,Bachelor's Degree,61000,55000,2023-05-15
+10,Sarah Jones,26,Female,Master's Degree,73000,60000,2023-05-30
+11,James Wilson,34,Male,Bachelor's Degree,62000,56000,2023-06-10
+12,Amy Roberts,30,Female,Master's Degree,77000,62000,2023-06-25
+13,William Turner,44,Male,High School,49000,42000,2023-07-05
+14,Michelle Hall,36,Female,Ph.D.,92000,82000,2023-07-20
+15,Andrew Evans,27,Male,Bachelor's Degree,57000,52000,2023-08-12
+16,Olivia Clark,41,Female,Master's Degree,80000,63000,2023-08-25
+17,Charles Harris,39,Male,High School,51000,46000,2023-09-08
+18,Ava Rodriguez,28,Female,Ph.D.,96000,82000,2023-09-22
+19,Joseph Baker,32,Male,Bachelor's Degree,63000,57000,2023-10-15
+20,Elizabeth Green,25,Female,Master's Degree,74000,61000,2023-10-30
